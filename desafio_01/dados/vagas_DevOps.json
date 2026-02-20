@@ -1,0 +1,122 @@
+{
+    "data": [
+        {
+            "id": 9311283,
+            "companyId": 7198,
+            "name": "DevOps/SRE",
+            "description": "Vamos buscar o extraordinário juntos? 🚀Nossos princípiosFalamos de pessoa para pessoaBuscamos o extraordinárioDamos vida à inovaçãoNos fortalecemos com a transparênciaResponsabilidades e atribuiçõesO seu papel será:Administrar e otimizar clusters Kubernetes e infraestrutura em nuvem (AWS/GCP).Criar e aprimorar monitoramento e alertas para prevenção de falhas.Automatizar deploys e gerenciamento de infraestrutura para garantir eficiência e escalabilidade.Desenvolver e evoluir pipelines CI/CD para entregas contínuas e seguras.Fortalecer a segurança e resiliência dos sistemas.Colaborar com o time de engenharia para manter alta disponibilidade das aplicações.Requisitos e qualificaçõesO que esperamos que você tenha:Experiência sólida com Docker e Kubernetes, incluindo troubleshooting e escalabilidade.Conhecimento prático em Infraestrutura como Código (IaC) com Terraform e/ou Ansible.Experiência com Cloud Computing (AWS/GCP): VPC, IAM, Load Balancers, S3, RDS e automação.Segurança e Redes: Configuração e gestão de Firewall/WAF, controle de acesso e mitigação de ameaças.Automação e Scripting: Habilidade intermediária a avançada em Python para automação.Linux Intermediário: Administração de servidores, troubleshooting de rede e segurança.Você irá se destacar se tiver:&nbsp;Experiência com CI/CD para automação de pipelines.Monitoramento e observabilidade com Prometheus, Grafana ou similares.Administração e otimização de bancos de dados (SQL e NoSQL).Conhecimento em Keycloak para autenticação.Administração de soluções JAVA como Apache NIFI.&nbsp;Informações adicionaisAqui na Franq você vai:Atuar com um time de profissionais experientes e renomados do mercado financeiro;Desenvolver, evoluir e aprender habilidades com as melhores práticas e novas tecnologias;Participar de um projeto inovador que impacta vidas financeiras de clientes além de criar novas formas de fazer negócio.&nbsp;&nbsp;&nbsp;Vamos oferecer:Contrato CLT;Cartão de benefícios flexíveis Caju de R$ 933,48;&nbsp;Assistência médica e odontológica, sem coparticipação, totalmente subsidiada pela empresa (Plano Bradesco);Seguro de vida;Parceria com Wellhub (Gympass);Parceria com Psicologia Viva e Conexa Saúde;Day off no mês de aniversário;Mesa de frutas para os Franqers em modelo presencial.Diversidade e Inclusão na Franq!Aqui na Franq você tem espaço para ser franco com você, ser quem você é!Nós te valorizamos, independente de raça, cor, religião, identidade de gênero, nacionalidade, deficiência, orientação sexual, descendência ou idade.Todas as nossas vagas são aptas para receber candidaturas de pessoas com deficiências, caso você se enquadre. Você pode especificar na sua candidatura e informar o código do CID correspondente.VENHA BUSCAR O EXTRAORDINÁRIO CONOSCO🚀Venha ser Franqer!#GoFranq",
+            "careerPageId": 15784,
+            "careerPageName": "Franq",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/7198/career/15784/images/2021-07-05_14-49_logo.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2025-06-06T16:33:51.150Z",
+            "applicationDeadline": "2026-10-31T00:00:00.000Z",
+            "isRemoteWork": false,
+            "city": "Florianópolis",
+            "state": "Santa Catarina",
+            "country": "Brasil",
+            "jobUrl": "https://franq.gupy.io/job/eyJqb2JJZCI6OTMxMTI4Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "hybrid",
+            "careerPageUrl": "https://franq.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 6546781,
+            "companyId": 59668,
+            "name": "Coordenação de DevOps",
+            "description": "Quer fazer parte de um time alta performance?&nbsp;A Neogrid é um ecossistema de tecnologia e inteligência de dados que ajuda a empresas a venderem mais, com mais margem 🚀Estamos em busca de pessoas com foco em performance, operando por métricas de negócios reais e acionáveis, e que nos ajude a garantir o desenvolvimento ágil de produtos e tecnologias 👩‍💻Na Neogrid, temos o desafio de entregar os melhores resultados com dedicação e excelência, nos desafiando cada vez mais todos os dias!Aqui, você terá a oportunidade de entregar o seu valor, ajudando os maiores players do mercado nacional no desafio de vender mais, com mais margem!Se você se identificou, temos o desafio certo para você!Responsabilidades e atribuiçõesNesta oportunidade, você irá:Supervisionar e liderar uma equipe de DevOps, fornecendo orientação técnica, treinamento e desenvolvimento contínuo;Desenvolver e implementar estratégias eficazes de DevOps para melhorar a colaboração entre as equipes de desenvolvimento e operações, visando a entrega contínua e a automação de processos;Colaborar na arquitetura e implementação de soluções de infraestrutura escaláveis, seguras e eficientes, utilizando práticas modernas de DevOps;Desenvolver e manter pipelines de CI/CD para garantir implantações contínuas e seguras, facilitando a entrega rápida e confiável de software;Implementar ferramentas e práticas para monitorar a performance do sistema, identificar gargalos e implementar melhorias;Integrar práticas de segurança desde o início do ciclo de desenvolvimento, garantindo a conformidade com as políticas de segurança da informação;Facilitar a colaboração efetiva entre as equipes de desenvolvimento, operações e segurança, promovendo um ambiente de trabalho integrado;Desenvolver e implementar políticas de gestão de mudanças para garantir alterações suaves e minimizar impactos nos serviços;Identificar e resolver problemas operacionais complexos, implementando soluções de longo prazo e prevenindo recorrências.&nbsp;Requisitos e qualificaçõesPara isso, esperamos que você tenha:Experiência em funções de liderança técnica relacionadas a DevOps;Profundo entendimento de práticas e ferramentas DevOps, incluindo automação, orquestração, CI/CD, infraestrutura como código, containerização (Docker, Kubernetes) e monitoramento;Fortes habilidades de liderança de motivar e gerenciar equipes técnicas.&nbsp;Familiaridade com práticas de segurança em ambientes DevOps (DevSecOps), incluindo controle de acesso, criptografia e conformidade;Excelentes habilidades de comunicação verbal e escrita, com a capacidade de explicar conceitos técnicos de forma clara para diferentes públicos;Experiência em gestão de projetos e ambientes ágeis;Certificações relevantes em DevOps, como AWS Certified DevOps Engineer, Microsoft Certified: Azure DevOps Engineer, ou equivalente, são desejáveis;Superior completo em Ciência da Computação, Engenharia de Sistemas ou área relacionada.Será um&nbsp;plus&nbsp;se você tiver:Conhecimento da Cloud da Huawei.Informações adicionaisPor que fazer parte do nosso time? 💚❤️💜💙Acreditamos no poder da diversidade, que amplia, inclui e faz crescer. Crescer a liberdade, a inovação e as oportunidades. &nbsp;e pensando nas nossas pessoas: &nbsp;🌍 Nossas oportunidades são Remotas ou Híbridas! O nosso modelo de trabalho varia conforme a função.⏰ Aqui temos Flexibilidade em nosso Horário de Trabalho!&nbsp;🏥 Cuidamos da sua saúde! Com nosso Plano de Saúde, Plano Odontológico, Auxílio Medicamento e Seguro de Vida (todos extensíveis a dependentes legais).🚍 Disponibilizamos Vale Transporte ou Auxílio Estacionamento para você que mora nas cidades em que nosso ecossistema está presente!🍔 Quer fazer um lanchinho ou as compras do mês? Com nosso Vale Alimentação/Refeição flexível, em cartão Flash, é você quem manda.💰 Está buscando aquele descontão? Aqui temos Clube de Vantagens!🏋️ E o shape, como fica? Deixa com o Gympass.🏖️ Bora tirar aquela folga? No mês do seu aniversário, você terá o dia da sua escolha para descansar como quiser.👨‍🎓 Temos a UNICO SKILL, solução educacional de capacitações externas para o desenvolvimento contínuo de Neogriders que podem escolher o que estudar, com opções de Graduação, MBA/Pós, Idiomas e Cursos Livres!🏫 Cuidamos de você e da sua família! Fornecemos Auxílio Creche e Licença Parental Estendida de 6 meses para mamães e de 30 dias para papais.📓 Quer se manter atualizado sobre o negócio e os produtos da empresa e ganhar brindes por isso? Temos a YOU, nossa Universidade Corporativa.📈 Queremos que você se desenvolva! Por isso, temos PDI (Plano de Desenvolvimento Individual), para você desenhar seus próximos passos com a gente, e Avaliações de Desempenho, para que você tenha clareza sobre o que esperamos de você.🧸 O NeoBaby é o nosso programa parental para recém mamães e papais!💵 Temos Programa de Indicação! Nos ajude a encontrar mais pessoas para ajudar a Neogrid a continuar crescendo e ganhe uma grana por isso.&nbsp;Se o seu propósito conversa com o nosso, vem crescer com a gente!",
+            "careerPageId": 130195,
+            "careerPageName": "Neogrid Carreiras",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/59668/career/130195/images/2023-01-23_20-23_companyLogoUrl.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2024-02-28T17:26:12.221Z",
+            "applicationDeadline": null,
+            "isRemoteWork": false,
+            "city": "Joinville",
+            "state": "Santa Catarina",
+            "country": "Brasil",
+            "jobUrl": "https://neogridcarreiras.gupy.io/job/eyJqb2JJZCI6NjU0Njc4MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": false,
+            "workplaceType": "hybrid",
+            "careerPageUrl": "https://neogridcarreiras.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 3081569,
+            "companyId": 1914,
+            "name": "DevOps",
+            "description": "Simplificar serviços financeiros é da nossa conta.O Social Bank é um banco 100% digital dedicado a melhorar a vida das pessoas com serviços financeiros de qualidade e acesso a benefícios essenciais.Nosso propósito é ampliar o acesso às possibilidades financeiras através de soluções digitais práticas e justas.Acreditamos que a liberdade é o maior valor que alguém possui. Por isso, nosso compromisso é criar um novo jeito de ser um banco. Diferente dos bancos tradicionais, queremos abrir inúmeras portas para quem está trancado do lado de fora, afinal, ser livre é eliminar obstáculos.Seja #SBanker.Responsabilidades e atribuiçõesSer responsável pela arquitetura e planejamento da infraestrutura Social Bank na AWS;Configurar, implantar e gerir serviços em nuvem com foco na Cloud AWS;Realizar o planejamento, design e implantação de cluster Kubernetes;Realizar implantação da infraestrutura na nuvem através de IAC (Terraform);Criar, implantar e gerir a esteira de deploy usando Jenkins integrado com repositório Azure DevOps;Realizar integração com o time de desenvolvimento, propor e implementar soluções como forma de automatizar a esteira de desenvolvimento, testes automatizados e entrega;Planejar, configurar e implantar mecanismos com foco na segurança da infraestrutura e informação no ambiente em nuvem;Realizar troubleshooting da estrutura de clusters de aplicações;Realizar planejamento contínuo, estudo de capacity e sugestão de melhorias visando redução de custos na AWS;Ter visão de conectividade, implantando soluções com menor latência e maior segurança;Analisar e implementar de integrações de ferramentas/tecnologias entre aplicações;Dentre outras atividades inerentes ao cargo.Requisitos e qualificaçõesFormação superior ou cursando na área da Tecnologia;Experiência anterior na função.Diferencial: Conhecimento/Certificações em AWS, IAC e ferramentas DevOps.Informações adicionaisBenefícios para você:·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plano de saúde sem coparticipação e sem desconto em folha;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Várias opções para o plano odontológico, de acordo com suas necessidades;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vale refeição;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vale alimentação;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Licenças maternidade e paternidade estendidas;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auxílio creche;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ambiente com máquina de café, frutas fresquinhas e uma mini conveniência;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seguro de vida;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prêmios Vale Presente para diversas ocasiões, como aniversário, tempo de casa, indicação para contratação, etc.;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Folga no seu aniversário;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auxílio educação;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fazer parte de um time de altíssimo nível;·&nbsp;&nbsp;&nbsp;&nbsp;Gerar impacto positivo na vida de milhares de pessoas.",
+            "careerPageId": 3230,
+            "careerPageName": "Social Bank",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/1914/career/3230/images/2022-04-18_14-27_logo.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2022-09-22T18:29:43.140Z",
+            "applicationDeadline": null,
+            "isRemoteWork": false,
+            "city": "Uberlândia",
+            "state": "Minas Gerais",
+            "country": "Brasil",
+            "jobUrl": "https://socialbank.gupy.io/job/eyJqb2JJZCI6MzA4MTU2OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "careerPageUrl": "https://socialbank.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 1736565,
+            "companyId": 20893,
+            "name": "Analista Devops - SRE",
+            "description": "  Apoiar a MOBS2 na manutenção e estabilidade da infraestrutura, bem como apoiar na criação de novas arquiteturas e acompanhamento dos indicadores de performance com os fornecedores.  Responsabilidades e atribuições·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciar clientes de nuvem pública envolvendo as plataformas da Azure;Apoiar no desenho de arquitetura de novos projetos;Sugerir mudanças e melhorias na arquitetura atual;Planejar as atividades para atender os objetivos;Estabelecer e acompanhar os SLA internos e com os fornecedores;Criar e manter todo o ciclo de entrega e implantação de forma continua e confiável;Documentar os incidentes, entendendo suas causas principais e propor futuras ações preventivas.Requisitos e qualificações·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduação completa em Engenharias da computação, Ciência da Computação, Sistema da Informação ou áreas afins;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experiência de mais de 5 anos com Devops e SRE.·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desejável conhecimento sobre ferramentas de gerenciamento de configuração e métodos de continuous integration; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Power Shell, Azure ARM, Cloud formation, Bash, Puppet, Ansible, Terraform, Jenkins;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desejável conhecimento sobre tecnologias de orquestrações de Containers;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conhecimento em nuvem publica de forma geral com especialização em Azure;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experiência em arquitetura de aplicações para o melhor uso de CLOUD Pública;Conhecimentos no framework Well-Architected;Experiência em IaC – Infrastructure as code;Experiência em PaaS – Platform as a Service;Experiência em administração de sistemas operacionais: Windows e/ou Linux, desejável formação em Network;Experiência com banco de dados MSSQL, NoSQL – MongoDB (Preferêncial) ou outros;Experiência em metodologia DevOps, GITHUB.Certificação (diferencial)Informações adicionaisPerfil Analítico e concentradoRaciocínio rápido e estratégicoComprometimento com responsabilidade, com atitudes de iniciativa e acabativa",
+            "careerPageId": 46474,
+            "careerPageName": "Mobs2",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/20893/career/46474/images/2022-01-24_12-29_logo.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2022-04-27T13:39:02.000Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "Recife",
+            "state": "Pernambuco",
+            "country": "Brasil",
+            "jobUrl": "https://vempramobs2.gupy.io/job/eyJqb2JJZCI6MTczNjU2NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "careerPageUrl": "https://vempramobs2.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 941172,
+            "companyId": 1243,
+            "name": "Especialista em Cloud Computing e Devops",
+            "description": "Vaga para nosso BANCO DE TALENTOSEstamos em busca de&nbsp;Especialista em Cloud Computing e Devops para&nbsp;administrar e desenvolver&nbsp;a infraestrutura de TI das Plataformas.Somos inquietos, somos desbravadores e estamos em constante transformação.Por isso, estamos na busca constante de crescimentos do nosso time com profissionais inovadores, que desafiam os limites e estejam preparados para embarcar em uma cultura totalmente nômade.SOMOS NÔMADES, NOSSAS VAGAS SÃO PARA QUALQUER LUGAR!Seja qual for o seu gênero, orientação sexual, idade, raça, etnia, crença ou deficiência, todos são bem-vindos no nosso time.Responsabilidades e atribuiçõesAdministrar e desenvolver a infraestrutura de TI das Plataformas visando atingir altos níveis de disponibilidade, desempenho e segurança;Desenvolver automações visando agilidade nos processos e sistemas da empresa;Monitoramento e análise da saúde e performance (tuning e troubleshooting) dos serviços;Participar nos processos de decisão da área buscando por soluções concretas que suportem o crescimento acelerado da empresa.Requisitos e qualificaçõesBackground em engenharia, com experiência de trabalho em sistemas distribuídos e com alta escalabilidade;Conhecimento em orquestramento de containers como Kubernetes (KOPS), ECR, EC2, ECS;Conhecimento em Cloud Computing AWS e em ferramentas de provisionamento na nuvem (como Terraform / etc);Proficiência em uma ou mais linguagens como Shell Script, Python ou Go;Conhecimento em ferramentas de monitoramento (como New Relic / APM / Grafana / Prometheus / etc);Experiência em desenvolvimento de software;Muita vontade para desbravar.Informações adicionaisOs desbravadores tem:Horário flexível, aqui você é responsável por se organizar;Cultura ágil, aqui todos os desbravadores utilizam metodologias ágeis no dia a dia;No dress code, seja 100% você;Vale transporte;Vale refeição ou alimentação FLEX;Gympass;Plano odontológico Bradesco;Plano de saúde Amil;Seguro de vida Metlife;Bem estar psicológico gratuito;Brivia Academy, treinamentos para aperfeiçoamento;Bônus salarial;Associação e descontos na&nbsp;ANAMID;E o melhor de todos: trabalhe de onde você quiser, somos nômades e estamos 100% em home office!",
+            "careerPageId": 9448,
+            "careerPageName": "Brivia",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/1243/career/9448/images/2022-03-21_12-58_logo.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2021-06-04T23:02:03.000Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "Rio de Janeiro",
+            "state": "Rio de Janeiro",
+            "country": "Brasil",
+            "jobUrl": "https://brivia.gupy.io/job/eyJqb2JJZCI6OTQxMTcyLCJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://brivia.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        }
+    ],
+    "pagination": {
+        "offset": 0,
+        "limit": 10,
+        "total": 5
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "data": [
+        {
+            "id": 9749257,
+            "companyId": 400,
+            "name": "Analista de Planejamento Financeiro Sr. (Foco em Dados)",
+            "description": "Quando você pensa em carreira, o que vem à sua mente? Propósito? Colaboração? Ser protagonista para fazer a diferença? No PagBank temos tudo isso e muito mais. 💛&nbsp;Estamos em busca de pessoas que vistam a camisa com orgulho. Gente com vontade de facilitar a vida financeira das pessoas e impulsionar negócios!&nbsp;Tá a fim de uma carreira que rende mais?&nbsp;Confira essa oportunidade e #VemProPags!Responsabilidades e atribuiçõesAtuar em projetos de budget, forecast e projeções financeiras, integrando análises de dados avançadas.Manipular e consolidar grandes bases de dados provenientes de diferentes sistemas.Utilizar SQL e bancos de dados para extração, tratamento e modelagem de informações financeiras.Desenvolver e manter dashboards e relatórios em Power BI, garantindo clareza e precisão.Apoiar o time de FP&amp;A na análise de P&amp;L, cash flow e KPIs.Automatizar processos e propor melhorias baseadas em data analytics.Atuar de forma consultiva junto às áreas de negócio, fornecendo insights estratégicos baseados em dados.Requisitos e qualificaçõesSuperior completo em Engenharia, Ciência de Dados, Economia, Administração ou áreas correlatas.Experiência sólida em análise de dados aplicada a finanças.Domínio de SQL e experiência em bancos de dados relacionais.Conhecimento em Excel avançado e manipulação de grandes volumes de informações.Experiência em Power BI (ou ferramentas similares de BI e Data Viz).Informações adicionaisPara se destacar nesta posição seria legal se você também tivesse:Experiência no setor financeiro, bancário, fintechs ou meios de pagamento.Conhecimentos em Python ou R para modelagem e automação de análises.Experiência em projetos de data pipeline e integração de dados.",
+            "careerPageId": 376,
+            "careerPageName": "PagBank",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/400/career/376/images/2020-07-22_18-13_logo.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2025-08-25T13:35:25.886Z",
+            "applicationDeadline": null,
+            "isRemoteWork": false,
+            "city": "São Paulo",
+            "state": "São Paulo",
+            "country": "Brasil",
+            "jobUrl": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6OTc0OTI1Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "hybrid",
+            "careerPageUrl": "https://pagseguro.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9741353,
+            "companyId": 17527,
+            "name": "Cientista de Dados | AWS | Python | Machine Learning | Home-Office",
+            "description": "UTILIZE A SUA PAIXÃO POR TECNOLOGIA PARA CAUSAR IMPACTO POSITIVO E #VemSerLuminiITAqui na Lumini IT a inovação e a resiliência fazem parte da nossa rotina.Somos uma empresa de soluções de TI que preza pela qualidade e agilidade na entrega de seus serviços.O nosso grande segredo para estar sempre um passo à frente do mercado é a audácia e a transformação que cada LUMINER promove todos os dias.Nossa integridade nos impulsiona e, o melhor, todo mundo colabora com todo mundo, não importa quem deu a ideia, somos uma empresa de estratégia horizontal, todas as pessoas estão dispostas a ajudar e se envolvem legitimamente para fazer dar certo e entregar resultados.Curtiu? Inscreva-se na vaga!Responsabilidades e atribuiçõesCientista de dados para atuar em uma equipe multidisciplinar focada em consultoria para novos clientes, com o objetivo de entrega de valor em projetos curtos de ML e GenIA, principalmente PoCs (Provas de Conceito) e prototipação.Requisitos e qualificaçõesExperiência em entregas de projetos de machine learning produtivos, mas que tenham interesse também em atuar em desafios multidisciplinares em dados e nuvem AWS;Comunicação com stakeholders do cliente e tradução de desafios de negócio para soluções baseadas em Inteligência Artificial;Análise e modelagem de dados para Machine Learning;Treinamento e avaliação modelos de Machine Learning e LLM customizados;Desenvolvimento de soluções com ferramentas SaaS de Machine Learning e Generative AI da AWS;Implantar pipelines de MLOps em ambientes produtivos;Conhecimento em ferramentas de dados AWS, principalmente bedrock;Conhecimento em Python e bibliotecas.Informações adicionaisModalidade de Trabalho: 100% Home Office;Contratação: CLT;Horário de Atuação: Horário comercial.Benefícios: Cartão Flex - Vale refeição ou alimentação (R$33,25/dia);Vale Refeição ou alimentação nas férias;Auxílio-creche (Por mês: R$ 646,00 até 2 anos; R$ 565,25 até 6 anos; R$ 807,50 para filhos abrangidos em pessoa com deficiência);Vale Transporte (único benefício com desconto, 6% obrigatório por lei);OU Auxílio estacionamento (R$ 150,00/mês) para quem atua em vagas presenciais ou híbridas;Assistência Odontológica – Porto Seguro – 100% custeado pela empresa;Assistência médica – Porto Seguro – com coparticipação;Totalpass;Day-Off de aniversário;Bonificação de aniversário;Seguro de Vida;Assistência Funeral;Parcerias com Universidades (FIAP, UNIP);Bônus por alcance de metas (conforme regras especificas da empresa, divulgadas anualmente).Importante: Nós valorizamos a diversidade e inclusão, consideramos todos os candidatos para as nossas vagas, independente de cor, raça, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.",
+            "careerPageId": 40930,
+            "careerPageName": "Lumini IT Solutions",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/17527/career/40930/images/2021-12-27_20-10_logo.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2025-08-22T20:29:25.205Z",
+            "applicationDeadline": "2026-10-21T00:00:00.000Z",
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://luminiitsolutions.gupy.io/job/eyJqb2JJZCI6OTc0MTM1Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": false,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://luminiitsolutions.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9683866,
+            "companyId": 82438,
+            "name": "ANALISTA DE DADOS",
+            "description": "Busca-se um profissional comprometido, organizado e proativo, com atenção aos detalhes e capacidade para lidar com múltiplas demandas. Espera-se que o Analista de Dados atue de forma colaborativa com as equipes, contribuindo para a análise, interpretação e organização de informações estratégicas. Responsabilidades e atribuiçõesColetar, tratar e padronizar dados de diferentes fontes.Desenvolver e manter painéis e relatórios gerenciais.Aplicar análises estatísticas, preditivas e de machine learning.Monitorar KPIs e métricas de desempenho.Colaborar com diversas áreas para integração de informações.Garantir a integridade, segurança e confidencialidade dos dados.Documentar processos, métodos e modelos desenvolvidos.Requisitos e qualificaçõesEnsino superior completo em Estatística, Ciência de Dados, Matemática, Engenharia, Administração, Economia ou áreas correlatas.SQL e bancos de dados relacionais e não relacionais.Ferramentas de visualização, como Power BI, Tableau, Qlik Sense ou equivalentes.Linguagens de programação para análise de dados, como Python e R.Excel em nível avançado.Estatística aplicada e modelagem preditiva.Governança e segurança de dados, incluindo conformidade com a LGPD.Informações adicionaisBenefícios Oferecidos:Consultas médicas onlineAtendimento com nutricionistaApoio psicológicoAlimentaçãoKit bebêCarta dos sonhosSeguro de vidaDesconto em viagensAcesso a academias e atividades físicas",
+            "careerPageId": 207684,
+            "careerPageName": "Prumo Engenharia",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/82438/career/207684/images/2025-04-10_17-20_companyLogoUrl.jpg",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2025-08-13T17:22:57.842Z",
+            "applicationDeadline": "2026-08-13T00:00:00.000Z",
+            "isRemoteWork": false,
+            "city": "Formiga",
+            "state": "Minas Gerais",
+            "country": "Brasil",
+            "jobUrl": "https://prumoengenharia.gupy.io/job/eyJqb2JJZCI6OTY4Mzg2Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "on-site",
+            "careerPageUrl": "https://prumoengenharia.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9668119,
+            "companyId": 17527,
+            "name": "Analista de Dados III | BI | Azure",
+            "description": "UTILIZE A SUA PAIXÃO POR TECNOLOGIA PARA CAUSAR IMPACTO POSITIVO E #VemSerLuminiITAqui na Lumini IT a inovação e a resiliência fazem parte da nossa rotina.Somos uma empresa de soluções de TI que preza pela qualidade e agilidade na entrega de seus serviços.O nosso grande segredo para estar sempre um passo à frente do mercado é a audácia e a transformação que cada LUMINER promove todos os dias.Nossa integridade nos impulsiona e, o melhor, todo mundo colabora com todo mundo, não importa quem deu a ideia, somos uma empresa de estratégia horizontal, todas as pessoas estão dispostas a ajudar e se envolvem legitimamente para fazer dar certo e entregar resultados.Curtiu? Inscreva-se na vaga!Responsabilidades e atribuiçõesDescrição da PosiçãoEstamos em busca de um Analista de Business Intelligence (BI) para atuar na criação de dashboards interativos, relatórios e indicadores de desempenho, fornecendo insights estratégicos para a operação logística do cliente. Esse profissional será responsável por desenvolver painéis e relatórios no ambiente Azure, garantindo a visibilidade em tempo real da localização dos veículos, status das jornadas dos motoristas e métricas de eficiência das rotas.&nbsp;O projeto faz parte de um programa de modernização e inovação com foco em Dados, IA, Produtividade, Otimização e Automação de Processos em uma grande transportadora no Brasil.&nbsp;Principais Responsabilidades&nbsp;Desenvolver dashboards interativos para rastreamento de veículos em tempo real, incluindo status, localização e progresso;Implementar alertas automáticos para atrasos nas rotas e desvios no planejamento das jornadas dos motoristas;Criar relatórios analíticos e indicadores de desempenho para avaliar a eficiência das rotas e a conformidade com as metas operacionais;Modelar e transformar dados para consumo em dashboards e relatórios gerenciais;Trabalhar em conjunto com engenheiros de dados para garantir a qualidade, atualização e confiabilidade das informações;Apoiar a tomada de decisão dos gestores operacionais por meio de insights extraídos dos dados;Garantir governança e segurança dos dados de acordo com as políticas da empresa.Requisitos e qualificaçõesPerfil DesejadoExperiência sólida em BI e Analytics, com foco na construção de dashboards e relatórios estratégicos;Conhecimento avançado em Power BI (DAX, Power Query, Modelagem de Dados);Experiência com Azure Data Services, incluindo Azure Synapse, Azure SQL, Azure Data Factory e Blob Storage;Conhecimento em SQL para extração e manipulação de dados;Experiência na criação de alertas automáticos e monitoramento de KPIs operacionais;Habilidade em visualização de dados e storytelling, garantindo que os relatórios sejam informativos e acionáveis;Noções de estatística e modelagem de dados para análise preditiva e otimização;Capacidade de documentação e comunicação clara, facilitando a interlocução com áreas de negócio e tecnologia.DiferenciaisExperiência com Event Hub, IoT e dados em tempo real no Azure;Conhecimento em Python ou R para análise avançada de dados;Certificações Microsoft em BI ou Azure (PL-300, DP-203)..Informações adicionaisModalidade de Trabalho: Remoto, com possíveis viagens ao cliente.Contratação: PJ;Horário de atuação da equipe:&nbsp;comercial.Importante: Nós valorizamos a diversidade e inclusão, consideramos todos os candidatos para as nossas vagas, independente de cor, raça, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.",
+            "careerPageId": 40930,
+            "careerPageName": "Lumini IT Solutions",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/17527/career/40930/images/2021-12-27_20-10_logo.png",
+            "type": "vacancy_legal_entity",
+            "publishedDate": "2025-08-11T17:19:27.592Z",
+            "applicationDeadline": "2026-08-10T00:00:00.000Z",
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://luminiitsolutions.gupy.io/job/eyJqb2JJZCI6OTY2ODExOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": false,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://luminiitsolutions.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9667068,
+            "companyId": 17527,
+            "name": "Engenheiro de Dados | Azure | Home-Office",
+            "description": "UTILIZE A SUA PAIXÃO POR TECNOLOGIA PARA CAUSAR IMPACTO POSITIVO E #VemSerLuminiITAqui na Lumini IT a inovação e a resiliência fazem parte da nossa rotina.Somos uma empresa de soluções de TI que preza pela qualidade e agilidade na entrega de seus serviços.O nosso grande segredo para estar sempre um passo à frente do mercado é a audácia e a transformação que cada LUMINER promove todos os dias.Nossa integridade nos impulsiona e, o melhor, todo mundo colabora com todo mundo, não importa quem deu a ideia, somos uma empresa de estratégia horizontal, todas as pessoas estão dispostas a ajudar e se envolvem legitimamente para fazer dar certo e entregar resultados.Curtiu? Inscreva-se na vaga!Responsabilidades e atribuiçõesDescrição da PosiçãoEstamos em busca de um Engenheiro de Dados para atuar na construção e integração de pipelines de dados no ambiente Azure, garantindo a ingestão, processamento e disponibilidade dos dados.O profissional será responsável pela integração de APIs externas e bases de dados existentes, além da implementação de arquiteturas escaláveis para análise e tomada de decisão.O projeto está inserido em um programa de longa duração de&nbsp;modernização e inovação com foco em Dados, IA, Produtividade, Otimização e Automação de Processos em uma grande transportadora no Brasil.&nbsp;Principais ResponsabilidadesProjetar e desenvolver pipelines de ingestão de dados de fontes externas (APIs, bancos relacionais e não relacionais, arquivos, sensores de telemetria, etc.);Integrar e consolidar dados de diferentes fontes no ambiente Azure, garantindo qualidade e consistência;Implementar arquitetura de referência para processamento e armazenamento de dados;Criar e gerenciar data lakes, data warehouses e data marts dentro do ecossistema Azure;Desenvolver e otimizar processos de ETL/ELT utilizando ferramentas da Microsoft como Azure Data Factory, Databricks, Synapse Analytics e Azure Functions;Garantir a governança, segurança e escalabilidade dos pipelines de dados;Monitorar e otimizar a performance das cargas de dados, identificando gargalos e propondo melhorias;Trabalhar em estreita colaboração com cientistas de dados e analistas funcionais para atender às necessidades do negócio.Requisitos e qualificaçõesPerfil DesejadoExperiência sólida como Engenheiro de Dados, com foco em construção de pipelines escaláveis;Conhecimento avançado em Azure Data Services, incluindo Data Factory, Synapse, Databricks, Azure SQL, Blob Storage e Monitoramento;Experiência em integração de dados via APIs REST/SOAP e consumo de dados em tempo real;Conhecimento em bancos de dados relacionais (SQL Server, PostgreSQL) e não relacionais (CosmosDB, MongoDB);Habilidade com Python, Spark, SQL e PowerShell para manipulação e processamento de dados;Experiência com DataOps, versionamento de código (Git) e CI/CD para pipelines de dados;Conhecimento em modelagem de dados, otimização de consultas e tuning de banco de dados;Noções de segurança e compliance em dados, incluindo LGPD e melhores práticas de armazenamento e compartilhamento;Capacidade de documentação e comunicação clara para interação com equipes técnicas e de negócio.&nbsp;DiferenciaisExperiência com event-driven architectures usando Azure Event Hub ou Kafka;Conhecimento em machine learning pipelines e MLOps no Azure;&nbsp;Certificações Microsoft (DP-203 – Azure Data Engineer Associate ou afins).Informações adicionaisModalidade de Trabalho: Remoto, com possíveis viagens ao cliente.Contratação: PJ;Horário de atuação da equipe:&nbsp;comercial.Importante: Nós valorizamos a diversidade e inclusão, consideramos todos os candidatos para as nossas vagas, independente de cor, raça, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.",
+            "careerPageId": 40930,
+            "careerPageName": "Lumini IT Solutions",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/17527/career/40930/images/2021-12-27_20-10_logo.png",
+            "type": "vacancy_legal_entity",
+            "publishedDate": "2025-08-11T14:20:55.502Z",
+            "applicationDeadline": "2026-08-10T00:00:00.000Z",
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://luminiitsolutions.gupy.io/job/eyJqb2JJZCI6OTY2NzA2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": false,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://luminiitsolutions.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9659203,
+            "companyId": 736,
+            "name": "Banco de Talentos - Área de Dados",
+            "description": "Você trabalha ou quer trabalhar com&nbsp;engenharia de dados,&nbsp;ciência de dados&nbsp;ou&nbsp;desenvolvimento? Então este espaço é para você!Responsabilidades e atribuiçõesEsta é uma vaga de&nbsp;Banco de Talentos, o que significa que sua candidatura será considerada assim que uma oportunidade efetiva for aberta em nosso time. Ao surgir uma posição alinhada ao seu perfil, entraremos em contato com você.Requisitos e qualificaçõesSe você tem interesse em fazer parte de um time que valoriza inovação, colaboração e crescimento contínuo na área de dados, inscreva-se e fique no nosso radar!",
+            "careerPageId": 950,
+            "careerPageName": "Ingram Micro",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/736/career/950/images/2024-10-03_15-20_companyLogoUrl.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2025-08-08T20:32:49.560Z",
+            "applicationDeadline": "2026-12-31T00:00:00.000Z",
+            "isRemoteWork": false,
+            "city": "Barueri",
+            "state": "São Paulo",
+            "country": "Brasil",
+            "jobUrl": "https://brlink.gupy.io/job/eyJqb2JJZCI6OTY1OTIwMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": true,
+            "workplaceType": "hybrid",
+            "careerPageUrl": "https://brlink.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9470313,
+            "companyId": 2083,
+            "name": "Engenheiro de Dados | DevSecOps ",
+            "description": "Na ISH, nosso objetivo é criar um&nbsp;mundo digital seguro e acolhedor. Estamos na vanguarda da mitigação de riscos, assegurando que a&nbsp;cibersegurança&nbsp;seja uma&nbsp;garantia de tranquilidade&nbsp;para empresas e pessoas. Não é apenas uma responsabilidade, mas um compromisso que nos permite&nbsp;capacitar a inovação.&nbsp;Você já se imaginou trabalhando em um lugar em constante transformação digital, inovação, colaboração e crescimento...&nbsp;Se sim: A ISH é o SEU lugar!&nbsp;💙&nbsp;O que nos&nbsp;move&nbsp;em direção ao&nbsp;futuro?&nbsp;&nbsp;&nbsp;A&nbsp;lealdade&nbsp;guia nossas ações, com integridade e verdade sempre presentes.&nbsp;Cuidado&nbsp;é uma via de mão dupla: cuidamos uns dos outros para sermos cuidados.&nbsp;Com&nbsp;proatividade&nbsp;e competência, o crescimento é uma realidade para quem se destaca.&nbsp;A&nbsp;resolutividade&nbsp;é o nosso foco: identificamos, entendemos e solucionamos problemas com eficiência.&nbsp;O&nbsp;reconhecimento&nbsp;é parte do nosso dia a dia, onde mérito e bom trabalho são sempre celebrados.&nbsp;A&nbsp;motivação&nbsp;nos move, e trabalhamos todos os dias com vontade de fazer a diferença.&nbsp;&nbsp;&nbsp;Venha trilhar os caminhos da&nbsp;#estradaparaofuturo&nbsp;junto com a gente! 🚀&nbsp;Responsabilidades e atribuiçõesConstruir, otimizar e gerenciar pipelines de ETL (Extract, Transform, Load) para garantir a integração e transformação eficiente dos dados;Garantir a qualidade e a integridade dos dados em todas as etapas do pipeline;Integrar dados de diferentes fontes, incluindo bancos de dados relacionais, APIs e arquivos de dados externos;Implementar e gerenciar processos de ingestão de dados em tempo real e em batch;Projetar e implementar modelos de dados escaláveis e eficientes;Desenvolver esquemas de banco de dados e otimizar consultas para desempenhoa;Monitorar a performance dos pipelines de dados e realizar ajustes necessários para melhorar a eficiência e a eficácia;Comunicar claramente os requisitos de dados e os resultados dos processos de ETL para as partes interessadas;Automatizar processos de coleta, transformação e carga de dados para reduzir o esforço manual e aumentar a eficiência;Implementar scripts e ferramentas para automação de tarefas repetitivas e rotineiras;Garantir que os processos de manipulação de dados estejam em conformidade com as políticas de segurança e privacidade da empresa.Requisitos e qualificaçõesEnsino superior completou ou cursando Ciência da Computação, Análise de Sistemas ou equivalente;Experiência comprovada em Programação, Machine Learning, Data View;Experiência com linguagens de programação e ferramentas para manipulação de dados (Java, Python, Spark, Scala, hadoop, etc);Capacidade de compreender várias estruturas de dados e métodos comuns na transformação de dados;Conhecimento ou experiência em bancos SQL e NoSQL.Será um diferencial:Conhecimentos em processos ETL;Conhecimentos em Cloud (AWS, GCP e AZURE);Conhecimentos em DevOps;Informações adicionaisNa ISH, acreditamos que as pessoas são o nosso patrimônio. Por isso, proporcionamos bem-estar, desenvolvimento e crescimento de todos os nossos colaboradores! Aqui você encontra:&nbsp;&nbsp;&nbsp;&nbsp;Para sua saúde física e mental:&nbsp;&nbsp;🩺 Plano de saúde sem mensalidade para você;&nbsp;&nbsp;🦷 Plano odontológico sem mensalidade para você;&nbsp;&nbsp;🌱Seguro de vida;&nbsp;&nbsp;📱 Pipo Saúde: Corretora digital de saúde e benefícios corporativos;&nbsp;&nbsp;💙&nbsp;Zenklub: Plataforma de saúde emocional e bem-estar, com descontos especiais;&nbsp;&nbsp;&nbsp;🏋️‍&nbsp;Wellhub: Plataforma que conecta você às diversas redes para ajudar no cuidado do seu bem-estar (e o de sua família).&nbsp;&nbsp;&nbsp;&nbsp;Para seu dia a dia:&nbsp;&nbsp;💰 Previdência Privada;&nbsp;&nbsp;🚌 Vale transporte;&nbsp;&nbsp;🍽️ Vale Alimentação ou Refeição;&nbsp;&nbsp;🎂&nbsp;Dayoff&nbsp;de Aniversário: Que tal uma folga no mês do aniversário?&nbsp;&nbsp;🧥Casual ISH – Conforto e profissionalismo caminham juntos: escolha um look que reflita seu bem-estar, respeitando o ambiente de trabalho;&nbsp;&nbsp;&nbsp;☕ Café da manhã e da tarde com frutas, mais disposição para a rotina presencial!;&nbsp;&nbsp;🤝 Programa de indicação de novos colaboradores com bônus em dinheiro;&nbsp;&nbsp;💻Kit&nbsp;Onboarding: Preparamos um&nbsp;super&nbsp;kit para apoiar no seu dia a dia no trabalho.&nbsp;&nbsp;&nbsp;&nbsp;Para o desenvolvimento da sua carreira:&nbsp;&nbsp;&nbsp;📚&nbsp;Deeplearning:&nbsp;Nossa Universidade Corporativa - Um espaço dedicado ao desenvolvimento contínuo dos nossos colaboradores, com cursos, treinamentos e workshops voltados para o aprimoramento profissional e pessoal;&nbsp;&nbsp;🚀 Oportunidade de crescimento profissional;&nbsp;&nbsp;🚀 Cultura de feedback e desenvolvimento;&nbsp;&nbsp;🚀 Programa exclusivo para lideranças;&nbsp;&nbsp;🚀Aqui você tem um ambiente descontraído, que respira inovação; Nossa liderança é acessível! As portas estão sempre abertas e você pode encontrá-los nos corredores da empresa.&nbsp;&nbsp;&nbsp;&nbsp;Você vai se manter atualizado com novidades do mercado e estará sempre em contato com um time inovador.&nbsp;&nbsp;&nbsp;&nbsp;Tá esperando o que?&nbsp;#vemserISH&nbsp;&nbsp;&nbsp;&nbsp;#LI-AM1",
+            "careerPageId": 3455,
+            "careerPageName": "ISH Tecnologia",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/2083/career/3455/images/2021-02-08_18-54_logo.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2025-07-12T00:00:46.486Z",
+            "applicationDeadline": "2026-03-01T00:00:00.000Z",
+            "isRemoteWork": false,
+            "city": "Vitória",
+            "state": "Espírito Santo",
+            "country": "Brasil",
+            "jobUrl": "https://ishtecnologia.gupy.io/job/eyJqb2JJZCI6OTQ3MDMxMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": true,
+            "workplaceType": "hybrid",
+            "careerPageUrl": "https://ishtecnologia.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9503951,
+            "companyId": 68185,
+            "name": "Banco de Talentos Tecnologia e Dados para Pessoas com Deficiência - Vem ser grupo OLX ;)",
+            "description": "Somos uma empresa 100% digital, com tecnologia desenvolvida localmente e líder no mercado de compra e venda online. Nos tornamos a marca que melhor representa a economia circular no país.&nbsp;Hoje contamos com dois escritórios nas cidades de Rio de Janeiro e São Paulo. Nosso modelo de trabalho flexível oferece autonomia e liberdade para que nossas pessoas elaborem seus padrões e rotinas com disciplina e protagonismo na conexão com negócio, as prioridades e o propósito da empresa.Construir um ambiente diverso, inclusivo e comprometido com a equidade faz parte do nosso DNA. Entendemos que diversidade, equidade e inclusão são essenciais para criarmos um ambiente seguro com entregas inovadoras e eficientes para nossas pessoas e sociedade. Responsabilidades e atribuiçõesFaça parte do nosso banco de talentos ;)IMPORTANTE!Esta não é uma vaga específica e sim um Banco de Talentos. Surgindo vagas de acordo com seu perfil e interesse, entraremos em contato para compartilhar mais detalhes sobre a oportunidade.Este Banco de Talentos é focado para oportunidades que podem surgir em Engenharia e Dados.Cadastre-se para participar de futuras oportunidades.Requisitos e qualificaçõesInformações adicionaisMais sobre o Grupo OLX:No Brasil desde 2010, o Grupo OLX tem como propósito empoderar as pessoas para que alcancem seus sonhos, reinventando o modelo de consumo. Com a aquisição do Grupo ZAP, concluída em outubro de 2020, a companhia opera a OLX, plataforma horizontal com posição de liderança nas categorias de automóveis, bens de consumo usados e imóveis; e duas plataformas líderes do mercado imobiliário, ZAP e Viva Real.Benefícios:&nbsp;Remuneração compatível com o mercado&nbsp;&nbsp;Plano de Saúde&nbsp;Plano Odontológico&nbsp;Previdência Privada&nbsp;Benefícios flexíveis que se adaptam às suas necessidades&nbsp;Auxílio alimentação&nbsp;Aconselhamento financeiro&nbsp;Clube de vantagens&nbsp;Auxílio Home Office&nbsp;Auxílio Mobilidade&nbsp;Auxílio Criança&nbsp;Seguro de Vida&nbsp;Licenças estendidas&nbsp;Incentivo ao esporte, qualidade de vida e bem estar&nbsp;Empréstimo consignado com taxas reduzidasCandidate-se e venha fazer parte dessa transformação conosco!",
+            "careerPageId": 201871,
+            "careerPageName": "Grupo OLX",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/68185/career/201871/images/2025-01-14_13-52_companyLogoUrl.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2025-07-11T14:41:24.713Z",
+            "applicationDeadline": "2026-12-31T00:00:00.000Z",
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6OTUwMzk1MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": true,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://vemsergrupoolx.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 9488321,
+            "companyId": 17527,
+            "name": "Engenheiro de Dados Sr | GCP | Setor Bancário | Home-Office - SP | ",
+            "description": "UTILIZE A SUA PAIXÃO POR TECNOLOGIA PARA CAUSAR IMPACTO POSITIVO E #VemSerLuminiITAqui na Lumini IT a inovação e a resiliência fazem parte da nossa rotina.Somos uma empresa de soluções de TI que preza pela qualidade e agilidade na entrega de seus serviços.O nosso grande segredo para estar sempre um passo à frente do mercado é a audácia e a transformação que cada LUMINER promove todos os dias.Nossa integridade nos impulsiona e, o melhor, todo mundo colabora com todo mundo, não importa quem deu a ideia, somos uma empresa de estratégia horizontal, todas as pessoas estão dispostas a ajudar e se envolvem legitimamente para fazer dar certo e entregar resultados.Curtiu? Inscreva-se na vaga!Responsabilidades e atribuiçõesRequisitos e qualificaçõesManter e otimizar a configuração e design de pipelines de dados, assegurando a transição contínua de informações e a execução ágil de processamentos;Participar ativamente na colaboração com equipes multifuncionais, buscando atender de forma abrangente e eficaz aos requisitos de negócios;Projetar a identificação e extração de dados provenientes de diversas fontes;Dimensionar a transformação e limpeza de dados, garantindo qualidade e eficiência;Participar ativamente em reuniões e projetos interdisciplinares;Implementar soluções de armazenamento escaláveis, promovendo o acesso rápido e confiável às informações;Possuir um papel-chave na identificação e implementação de soluções inovadoras;Estabelecer o dimensionamento de máquinas e recursos, assegurando operações eficazes dos pipelines;Definir&nbsp;KPIs de desempenho e qualidade do Data Lake, monitorando seu funcionamento e identificando áreas de melhoria;Aplicar&nbsp;as melhores práticas de engenharia de dados em nuvem, otimizando processamento, armazenamento e transferência de dados;Realizar&nbsp;otimizações avançadas de desempenho e governança de dados para contribuir para análises mais ágeis e precisas;Desenvolver&nbsp;automação via CI/CD para automatizar a construção, teste e implantação de pipelines de dados;Promover&nbsp;ativamente a cultura data-drivenno Banco, fortalecendo a capacidade da organização de se adaptar às mudanças e aproveitar oportunidades com base em evidências sólidas;Proporcionar&nbsp;uma base sólida para análises e tomada de decisões bem fundamentadas;Projetar&nbsp;a arquitetura de dados, estabelecendo padrões e melhores práticas;GCP (Dataflow,Dataproc,Dataplex,Bigquery, Cloud Composer).Informações adicionaisModalidade de Trabalho: Home Office;*Solicitamos uma visita uma vez por semana no escritório localizado na Faria Lima.Contratação: PJ;Horário de atuação da equipe:&nbsp;comercial.Importante: Nós valorizamos a diversidade e inclusão, consideramos todos os candidatos para as nossas vagas, independente de cor, raça, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.",
+            "careerPageId": 40930,
+            "careerPageName": "Lumini IT Solutions",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/17527/career/40930/images/2021-12-27_20-10_logo.png",
+            "type": "vacancy_legal_entity",
+            "publishedDate": "2025-07-08T19:44:12.031Z",
+            "applicationDeadline": "2026-09-06T00:00:00.000Z",
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://luminiitsolutions.gupy.io/job/eyJqb2JJZCI6OTQ4ODMyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": false,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://luminiitsolutions.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 8923072,
+            "companyId": 53272,
+            "name": "Estágio em Bancos de Dados SQL - 100% PRESENCIAL em Piracicaba",
+            "description": "Venha fazer parte do nosso time!Se você deseja trabalhar em uma empresa pioneira em Inteligência Agronômica Artificial, líder no mercado agro, criadora incansável de soluções inovadoras e fazer parte de um time que revoluciona a agricultura, chegou o momento!Para acompanhar e fazer parte do crescimento da empresa, estamos à procura de um ESTÁGIO DESENVOLVEDOR ETL que tenha inovação, criatividade, organização e pro atividade em seu DNA.Confira o perfil abaixo e venha ser um SMARTBREEDER!📍Vaga Presencial em Piracicaba SPResponsabilidades e atribuições📌O que você vai fazer no seu dia a dia:✅&nbsp;Criar procedimentos, executar testes e validações utilizando SQL e ferramentas ETL para garantir a congruência dos dados integrados;✅ Estruturação de Banco de dados.Requisitos e qualificações⚠️Cursando superior em: áreas relacionadas a T.I. 📌Seria legal se você tivesse conhecimento em:✅&nbsp;Lógica de programação;✅&nbsp;Linguagem SQL;✅&nbsp;Banco de dados SQL Server;✅&nbsp;Python.Informações adicionais📌 O que oferecemos?✅ Auxílio mobilidade no cartão Caju;✅ Voucher Aniversário;✅ Lanche da tarde;✅ Wellhub/Gympass;✅ Seguro de vida;✅ Programas de capacitação;✅ Parceiras com instituição de ensino, hamburguerias, restaurantes, óticas e farmácias.✉️&nbsp;Cadastre seu currículo, caso você tenha perfil para vaga entraremos em contato com você em breve!",
+            "careerPageId": 129437,
+            "careerPageName": "SMARTBREEDER - trabalhe conosco",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/53272/career/129437/images/2023-02-07_16-55_companyLogoUrl.jpg",
+            "type": "vacancy_type_internship",
+            "publishedDate": "2025-05-22T16:46:34.341Z",
+            "applicationDeadline": "2026-06-03T00:00:00.000Z",
+            "isRemoteWork": false,
+            "city": "Piracicaba",
+            "state": "São Paulo",
+            "country": "Brasil",
+            "jobUrl": "https://sejaumsmartbreeder.gupy.io/job/eyJqb2JJZCI6ODkyMzA3Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "on-site",
+            "careerPageUrl": "https://sejaumsmartbreeder.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        }
+    ],
+    "pagination": {
+        "offset": 0,
+        "limit": 10,
+        "total": 33
+    }
+}

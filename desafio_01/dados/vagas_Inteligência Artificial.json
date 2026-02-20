@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 9538769,
+            "companyId": 213,
+            "name": "Desenvolvedor(a) em Inteligência Artificial",
+            "description": "Buscamos um(a) Desenvolvedor(a) em Inteligência Artificial para integrar o time e atuar no desenvolvimento de soluções inovadoras em IA, com foco em otimização, escalabilidade e segurança.Será responsável por todo o ciclo de vida de projetos de IA, desde o discovery com stakeholders até a entrega final, garantindo eficiência, qualidade e aderência à LGPD.Responsabilidades e atribuiçõesResponsabilidades:Conduzir discovery com stakeholders e entender objetivos/dados;Desenhar arquitetura (dados, LLMs e infraestrutura) com foco em custo, desempenho e LGPD;Implementar pipelines (ETL/ELT) e soluções de RAG (BM25 + embeddings + reranking);Desenvolver e integrar APIs (FastAPI) e interfaces (Streamlit);Versionar, testar código e orquestrar deploy (Docker/CI/CD);Configurar observabilidade, métricas e alarmes;Avaliar modelos, prompts e propor melhorias contínuas;Documentar decisões, criar playbooks e capacitar equipes.Requisitos e qualificaçõesRequisitos:Domínio em Python e frameworks de IA (TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib);Experiência com IA Generativa (LangChain, LangGraph, LlamaIndex);Conhecimento em aprendizado supervisionado, não supervisionado e deep learning;Experiência em nuvem (AWS, Azure ou GCP) e práticas DevOps;Vivência com Machine Learning, visão computacional e IA generativa;Graduação em ADS, Engenharia de Software, Ciência da Computação ou áreas correlatas;Soft skills: criatividade, inovação, gestão do tempo, comunicação clara e trabalho em equipe.Informações adicionaisFlexibilidade de horário;Wellub;Day Off no aniversário;Vale cultura - Carteira de desconto em shows, cinemas, teatro entre outros;Ascensão profissional;Programas de treinamento e mentoria;Visibilidade de mercado;Parceria com instituições de ensino;Auxílio educacional;Respeito e transparência entre líderes e liderados;",
+            "careerPageId": 48,
+            "careerPageName": "Gomes de Matos Consultoria",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/213/career/48/images/2021-05-27_14-25_logo.jpg",
+            "type": "vacancy_legal_entity",
+            "publishedDate": "2025-07-18T12:34:12.989Z",
+            "applicationDeadline": null,
+            "isRemoteWork": false,
+            "city": "Fortaleza",
+            "state": "Ceará",
+            "country": "Brasil",
+            "jobUrl": "https://gomesdematos.gupy.io/job/eyJqb2JJZCI6OTUzODc2OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": false,
+            "workplaceType": "on-site",
+            "careerPageUrl": "https://gomesdematos.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        }
+    ],
+    "pagination": {
+        "offset": 0,
+        "limit": 10,
+        "total": 1
+    }
+}

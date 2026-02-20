@@ -1,0 +1,238 @@
+{
+    "data": [
+        {
+            "id": 9385227,
+            "companyId": 7198,
+            "name": "Pessoa Engenheira de Software - Back-end Python",
+            "description": "Vamos buscar o extraordinário juntos? 🚀Nossos princípiosFalamos de pessoa para pessoaBuscamos o extraordinárioDamos vida à inovaçãoNos fortalecemos com a transparênciaResponsabilidades e atribuiçõesO seu papel será:Ajudar na estruturação de toda fundação das nossas soluções;Desenvolver soluções e API's de integração com diversos parceiros de todo o mercado financeiro;Fazer parte da estruturação de nossa arquitetura distribuída, utilizando CI/CD com testes automatizados e totalmente na nuvem;Desenvolver as soluções integradas com um sistema de monitoramento para garantirmos performance e atuação preventiva;Desenvolver soluções sempre pensando em eficiência, escalabilidade e estabilidade.Requisitos e qualificaçõesO que esperamos que você tenha:Conhecimento profundo em Python + Django;Conhecimento de Clean Code e Design Patterns;Conhecimento de Banco de Dados relacional;Utilizar conceitos do Git: branching, issues, pull-requests, etc;Vivência em metodologias ágeis;Conhecimento da stack de soluções da AWS (EKS, RDS);Desenvolvimento de APIs;Desenvolvimento de soluções baseadas em eventos.Você irá se destacar se tiver:Conhecimento de soluções serverless e conceito FaaS;&nbsp;Conhecimento em configuração de arquitetura de sistemas na AWS;&nbsp;Experiência com pipelines de ETL;Conhecimento nas linguagens: Node.js ou Go;&nbsp;Conhecimento em TDD;&nbsp;Conhecimento em Data Storage e Data Architecture;&nbsp;Inglês (leitura e escrita);Desenvolvimento de testes automatizados e prática de code reviews pois queremos sempre garantir a máxima qualidade e segurança das nossas entregas.Informações adicionaisAqui na Franq você vai:Atuar com um time de profissionais experientes e renomados do mercado financeiro;Desenvolver, evoluir e aprender habilidades com as melhores práticas e novas tecnologias;Participar de um projeto inovador que impacta vidas financeiras de clientes além de criar novas formas de fazer negócio.&nbsp;&nbsp;&nbsp;Vamos oferecer:Contrato CLT;Cartão de benefícios flexíveis Caju de R$&nbsp;933,48;&nbsp;Assistência médica e odontológica, sem coparticipação, totalmente subsidiada pela empresa (Plano Bradesco);Seguro de vida;Parceria com Gympass;Parceria com Psicologia Viva e Conexa Saúde;Day off no mês de aniversário;Mesa de frutas para os Franqers em modelo presencial.Diversidade e Inclusão na Franq!Aqui na Franq você tem espaço para ser franco com você, ser quem você é!Nós te valorizamos, independente de raça, cor, religião, identidade de gênero, nacionalidade, deficiência, orientação sexual, descendência ou idade.Todas as nossas vagas são aptas para receber candidaturas de pessoas com deficiências, caso você se enquadre. Você pode especificar na sua candidatura e informar o código do CID correspondente.VENHA BUSCAR O EXTRAORDINÁRIO CONOSCO🚀Venha ser Franqer!#GoFranq",
+            "careerPageId": 15784,
+            "careerPageName": "Franq",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/7198/career/15784/images/2021-07-05_14-49_logo.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2025-06-18T17:45:54.353Z",
+            "applicationDeadline": "2026-12-31T00:00:00.000Z",
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://franq.gupy.io/job/eyJqb2JJZCI6OTM4NTIyNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://franq.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 8839189,
+            "companyId": 401,
+            "name": "Desenvolvedor(a) Back End Java (Curitiba-PR)",
+            "description": "Buscamos pessoas apaixonadas por tecnologia e que acreditem que ela é uma ferramenta capaz de transformar a vida de nossos clientes! Queremos um novo talento para atuar dentro do nosso time de Arquitetura que nos ajude a impactar a maneira como o agronegócio brasileiro faz uso de tecnologia.Responsabilidades e atribuiçõesAnalisar soluções com base em requisitos e protótipos previamente fornecidos pelo o time de UX;Modelar dados e codificação de API's em monolitos e microserviços Java que processam regras de negócio complexas de uma forma eficaz, colaborando com nossa arquitetura web;Criar estruturas para atender novas funcionalidades de forma otimizada e organizada;Atuar em correções apontadas pelos clientes ou pela equipe de qualidade;Trabalhar em um processo de desenvolvimento de software altamente ágil e intensamente iterativo;Comunicar de forma clara e concisa sobre problemas técnicos;Trabalhar na criação e evolução de produtos da Agrotis e trabalhar em equipe e inter-times.Requisitos e qualificaçõesSuperior completo na área de TI;Experiência com desenvolvimento e consumo de API Rest na arquitetura Java;Experiência com Java 11, EJB, Spring Boot e JPA;Experiência com Testes Unitários (Junit/jupiter/mock) e análise de cobertura de testes;Experiência em modelagem de dados com estrutura e consultas otimizadas ao ganho de desempenho;Conhecimento e boas práticas de desenvolvimento de software, análise de informações e aplicações de soluções baseadas nos requisitos técnicos e novas funcionalidades;Disposto a aprender, interagir e compartilhar;Disponibilidade para atuar presencialmente em Curitiba-PR. Informações adicionaisCLTVale refeição de R$880,00/mês (desconto de R$176,00 em folha de pagamento);Vale transporte (sem desconto);Plano de saúde Unimed;Plano odontológico DentalUni;Seguro de vida;GymPass;TotalPass;Auxílio Educação;Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa e sinuca, café (nós adoramos café) e toda segunda-feira quitutes deliciosos.",
+            "careerPageId": 396,
+            "careerPageName": "AGROTIS",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/401/career/396/images/logo.jpg",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2025-03-20T13:24:53.854Z",
+            "applicationDeadline": "2034-12-31T00:00:00.000Z",
+            "isRemoteWork": false,
+            "city": "Curitiba",
+            "state": "Paraná",
+            "country": "Brasil",
+            "jobUrl": "https://agrotis.gupy.io/job/eyJqb2JJZCI6ODgzOTE4OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "on-site",
+            "careerPageUrl": "https://agrotis.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 7205652,
+            "companyId": 59833,
+            "name": "Banco de Talentos - Senior Back end Developer [java]",
+            "description": "Quem somos:A Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atuamos como centro de tecnologia, inovação e design do grupo. Possuímos parceria com diversas agências do grupo e estamos empenhados em entregar soluções criativas e inovadoras aos nossos clientes, atendendo a projetos de desenvolvimento web e mobile. Embora tenhamos nosso escritório físico, por acreditarmos numa conexão sem fronteiras, temos pessoas espalhadas por todo o país que compões os times da DWS Brazil.Os DWSianes se integram a times multiculturais e que contam com pessoas de diversos países, levando o trabalho em grupo a um nível mais elevado e significativo. Assim, a diversidade de ideias contribui para a construção de tecnologias&nbsp;que revolucionam o mercado.&nbsp;Muitos desafios, aprendizado e crescimento esperam você na DWS Brazil!#vemserumDWSiane&nbsp;Estamos em busca de uma pessoa desenvolvedora back end em JAVA para apoiar no desenvolvimento de nossas soluções.Responsabilidades e atribuiçõesComo será sua rotina? Você será responsável por:Desenvolver soluções utilizando JavaEE e spring boot;&nbsp;Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;Desenvolver, integrar manter APIs para integração de Sistemas;Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócioDocumentar todo o processo de desenvolvimento do código;&nbsp;Criar relatórios de status e possíveis problemas para o Project Manager;Participar de reuniões técnicas e cerimônias do projeto.Requisitos e qualificaçõesPara essa posição é importante que você tenha:﻿Experiência com programação em Java (JDK);Domínio de conceitos para programação orientado a objetos;Experiência com conceito de padrões de arquitetura;Conhecimento em GIt ou Subeversion;Habilidades com frameworks open source (Hibertnate, Velocity, etc);Conhecimento em aplicações Web e protocolos HTTP;Experiência com banco de dados relacionais (Oracle, MySQL, etc);Experiência com pelo menos um IDE (Eclipse, Intellij IEDA, etc);Experiência com Gradle, Mavel ou ANT e integração contínua;&nbsp;Conhecimento em conceitos ORM ou experiência com implementação (Hibernate ou outra JPA);Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.Informações adicionaisAqui você vai encontrar (Nossos benefícios):Todo o equipamento necessário para seu trabalho (notebook e periféricos);Plano de saúde e odontológico;Seguro de vida;Mental health program;Anywhere office - flexibilidade para trabalhar de onde precisar;VR/VA (cartão de benefícios Flash);Auxílio home office (cartão de benefícios Flash);Auxílio mobilidade (cartão de benefícios Flash);Programa de mentoria para desenvolvimento e acompanhamento de carreira;Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;&nbsp;Aulas de inglês com professor particular;&nbsp;Awesomeness Committee - envio de mimos temáticos e exclusivos;&nbsp;Gympass;&nbsp;Horário flexível (40h semanais);&nbsp;Day off no dia do aniversário;&nbsp;Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;&nbsp;Atuação 100% remota ou híbrida (a sua escolha).",
+            "careerPageId": 147026,
+            "careerPageName": "Dentsu World Services Brazil",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/59833/career/147026/images/2023-06-08_19-32_companyLogoUrl.jpg",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2024-05-22T19:19:01.737Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://dwsbrazil.gupy.io/job/eyJqb2JJZCI6NzIwNTY1Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://dwsbrazil.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 7131692,
+            "companyId": 1717,
+            "name": "Desenvolvedor Back-end",
+            "description": "Buscamos um(a) profissional criativo para fazer parte do nosso&nbsp;time de Desenvolvimento de Software, para desenvolver aplicações inovadoras, disruptivas e escaláveis com alto impacto para as pessoas e para as cidades. ﻿Atuará no desenvolvimento de softwares desde os requisitos de projeto, passando pelas regras de negócio, desenvolvimento, testes e homologação.Responsabilidades e atribuiçõesDesenvolvimento e manutenção em sistemas PHP com e sem frameworkExperiência em ambiente LinuxVivência em DevOps é diferencialExecutar DeployParticipação em novos projetos de software PHPAtendimento de chamados e solução de bugsHomologação e validação das entregas junto às áreas solicitantesRequisitos e qualificaçõesLinguagens de Programação: PHP (proficiente), Python (Básico), JavaScript (desejável)Experiência com implementação de Banco de Dados: Postgre e MySQL&nbsp;- CRUD / MVCVersionamento de sistemas via GitExperiência em Cloud Computing - GCP Google Cloud / WSL / SSHConhecimento em CronJobs e automação de tarefas e processosInformações adicionaisBenefícios:&nbsp;Assistência médica e odontológica; Seguro de Vida; Vale refeição ou Vale alimentação;Vale transporte (opcional);Dress code casual;Auxilio creche para mamães;PLR anual*TotalPassDay Off de aniversárioLocal de Trabalho: Presencial - Vila Anastácio - SPHorário de trabalho: segunda a sexta, das 9h às 18hModelo de contratação: CLT.",
+            "careerPageId": 7370,
+            "careerPageName": "Confidencial",
+            "careerPageLogo": "https://gupy5.s3.amazonaws.com/images/public-pages/confidencial_logo.png",
+            "type": "vacancy_type_effective",
+            "publishedDate": "2024-05-08T20:29:50.959Z",
+            "applicationDeadline": null,
+            "isRemoteWork": false,
+            "city": "São Paulo",
+            "state": "São Paulo",
+            "country": "Brasil",
+            "jobUrl": "https://confidencial00000.gupy.io/job/eyJqb2JJZCI6NzEzMTY5Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "on-site",
+            "careerPageUrl": "https://confidencial00000.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 6943405,
+            "companyId": 732,
+            "name": "Banco de Talentos | Back-End Engineer -  Remote",
+            "description": "Transforme o futuro da segurança de aplicações com a Conviso!Nosso propósito é empoderar pessoas desenvolvedoras para construírem aplicações mais seguras, ajudando empresas a alcançar maior maturidade em desenvolvimento seguro, mitigar riscos e proteger o que importa: seus negócios. Somos movidos pela inovação, investindo em pesquisa e novas tecnologias para transformar a cultura de segurança de aplicações em todo o mundo.Como Back-End Engineer da Conviso, você fará parte de uma equipe plural e multidisciplinar, colaborando com nosso time de Product Development. Você irá trabalhar diretamente com nosso principal produto, a Conviso Platform, que é uma plataforma completa de DevSecOps.Aqui, acreditamos que grandes resultados vêm de pessoas apaixonadas por hacking e que compartilham o compromisso de tornar o mundo mais seguro. Nossa cultura é transparente, colaborativa e focada no aprendizado contínuo. Além disso, somos um time anywhere office com uma equipe que trabalha em mais de 34 cidades diferentes e cada Insider (nossas pessoas colaboradoras) tem liberdade para crescer de onde quiser.💻 Trabalho remoto, impacto global.Está pronto para transformar desafios em soluções e crescer com a gente?Vem para a Conviso! 💙💛Responsabilidades e atribuições✨ SEU DIA A DIAFocar na entrega de valor para o produto, utilizando boas práticas de desenvolvimento como DDD, TDD, BDD e Clean Architectures;Realizar revisão de código de outros desenvolvedores do time para ajudar a garantir a qualidade do nosso código;Colaborar nas definições de arquitetura e escalabilidade dos nossos produtos;Desenvolvimento focado em API-First;Aplicar boas práticas de modelagem de banco de dados;Desenvolver utilizando as melhores práticas de segurança;Se desenvolver constantemente para se manter atualizado;Ter uma boa comunicação com o time, colaborar e trazer novas ideias e apoiar time e gestor na tomada de decisões.Requisitos e qualificações👀 IMPRESCINDÍVEL TERExperiência com pelo menos uma linguagem de programação (Ruby, Python, Go, Javascript, PHP ou outras);Experiência com pelo menos um dos frameworks (Rails, Django, AdonisJs, Laravel ou outros);Experiência em Banco de dados relacionais como MySQL e Postgres;Experiência em Banco de dados não relacionais como MongoDB, DynamoDB e ElasticSearch;Experiência com GraphQL;Experiência com testes automatizados;Conhecimento em protocolos de comunicação: TCP/UDP, HTTP;Conhecimento em Web Servers e Proxies;Conhecimento em Kubernetes e containers Docker;Conhecimento em sistemas de mensagens Pub/Sub (Kafka, RabbitMQ, Kinesis);Conhecimento em Microsserviços;Conhecimentos em CI/CD.⚡ SERÁ UM DIFERENCIALConhecimentos em Cloud (AWS, Azure ou outras equivalentes);Conhecimento no framework VueJs;Ter inglês intermediário ou superior.Informações adicionais🚀 COMO SERÁ SUA JORNADA&nbsp;Candidatar-se;Fazer nosso Teste de Inglês.Caso o seu perfil seja aderente à alguma posição iremos te realocar na vaga e entrar em contato com você! 😉🎁 BENEFÍCIOSAlém de trabalhar numa empresa onde você pode se desenvolver enquanto faz parte integralmente do negócio, oferecemos benefícios para tornar nossos dias ainda mais agradáveis!Vale Refeição de R$1000,00 por mês, pagos no cartão multibenefícios Flash, com desconto de apenas R$1 por mês;Auxílio anywhere office de R$100,00 por mês;Plano de saúde e odontológico da Amil nacional para cuidar de você, sem desconto;Plano específico da Flash Care para saúde mental e atenção primária à saúde;Seguro de vida;Gympass e Totalpass;Acesso à plataforma de cursos de idioma da Duolingo para dar um up no idioma;Reembolso de 70% em treinamentos e certificações;Programa de Indicação: Meu Amigo Vale Ouro;Programa filho nota 10;Day off de aniversário;Day off no dia de mudança de casa;Time off to pet care;Qualidade de vida, horário semi-flexível e trabalho 100% remoto, isso mesmo, anywhere office.💛 QUER SABER MAIS SOBRE A CONVISO?!Culture CodeBlog&nbsp;Podcast&nbsp;Canal do youtube—Aqui a diversidade importa! Valorizamos as diferenças, pluralidades de raça, cor, religião, gênero e identidade de gênero, nacionalidade, orientações sexuais ou de idade, pois acreditamos na importância de compartilhar ideias e pontos de vista distintos.Cada pessoa importa, ninguém aqui é somente um número. Cada Insider importa! 💙💛",
+            "careerPageId": 943,
+            "careerPageName": "Conviso Application Security",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/732/career/943/images/2022-02-04_21-04_logo.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2024-03-27T13:44:28.876Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://convisoappsec.gupy.io/job/eyJqb2JJZCI6Njk0MzQwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": true,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://convisoappsec.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 6667192,
+            "companyId": 1243,
+            "name": "Back end .net (Serviços Azure)",
+            "description": "Somos inquietos, somos desbravadores e estamos em constante transformação.Por isso, estamos na busca constante de crescimentos do nosso time com profissionais inovadores, que desafiam os limites e estejam preparados para embarcar em uma cultura totalmente nômade.SOMOS NÔMADES, NOSSAS VAGAS SÃO PARA QUALQUER LUGAR!Seja qual for o seu gênero, orientação sexual, idade, raça, etnia, crença ou deficiência, todos são bem-vindos no nosso time.Responsabilidades e atribuiçõesRESPONSABILIDADES E ATRIBUIÇÕESServiços Azure (Service Bus, Functions, Application Insights, Blob Storage).C# .NET Core 8, ASP.NET Core WEB API.Arquitetura de microsserviços.Keycloak / Auth0.Azure API Management (API Gateway).Criação de testes unitários (Xunit)Integrações com ProtheusArquitetura distribuídaBanco de dados SQL ServerPadrões de desenhos e boas práticas de injeção de dependências, princípios SOLID, Clean Code, TDD/BDD/DDD;",
+            "careerPageId": 9448,
+            "careerPageName": "Brivia",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/1243/career/9448/images/2022-03-21_12-58_logo.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2024-01-24T15:23:14.326Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://brivia.gupy.io/job/eyJqb2JJZCI6NjY2NzE5Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://brivia.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 5042386,
+            "companyId": 40133,
+            "name": "Desenvolvedor Back End",
+            "description": "Cód. 16539 - Desenvolvedor Backend Sênior Requisitos  Python, MySQL, AWS, Docker, Git e conhecimentos básicos em PHP Experiência nível Sênior de 3 a 5 anos;  Pesquisar e propor soluções para as necessidades dos clientes;  Dinamismo, flexibilidade e proatividade;  Capacidade de planejamento e auto-gestão das suas atividades; Conhecimento desejável em Fast API e Postgres.Modelo de contratação: PJ/remotoAo enviar seu currículo você confere pleno consentimento ao tratamento de dados pessoais nos termos da nossa Política de Privacidade https://www.taking.com.br/politica-de-privacidade/",
+            "careerPageId": 140986,
+            "careerPageName": "Account Manager Jr",
+            "careerPageLogo": "",
+            "type": "vacancy_legal_entity",
+            "publishedDate": "2023-06-22T15:14:48.203Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "São Paulo",
+            "state": "",
+            "country": "Brasil",
+            "jobUrl": "https://taking&140986&inactive.gupy.io/job/eyJqb2JJZCI6NTA0MjM4Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": false,
+            "workplaceType": "remote",
+            "careerPageUrl": ""
+        },
+        {
+            "id": 4966555,
+            "companyId": 40133,
+            "name": "Desenvolvedor Progress Pleno - Java Back End",
+            "description": "16457 Desenvolvedor Progress ( Java) PlenoAtuação PJ - 12 meses100% Home OfficeRequisitos obrigatórios:\tLinguagem Progress: aplicada em desenvolvimento de projetos com mínimo 4 anos de experiência;\tLinguagem java: voltada a backend, com micro-serviços, springboot, swagger, construção de APIs; mínimo 4 anos de experiência;\tExperiência em projetos conduzidos em metodologia ágil e waterfall;Atividades: 80% da atuação será com progress em melhorias/projetos/desenvolvimento. E 20% do tempo atuando com desenvolvimento java backend. Pode surgir necessidade de atuação também em sustentação em algum momento, em aplicações tanto progress quanto em java.Diferencial: experiência em segurosComportamento: profissionalismo, pró-atividade, senso crítico, trabalho em equipe, disponibilidade para ser contatado durante o dia, e participação nas cerimônias junto a equipe.Ao inserir os seus Dados no formulário para cadastro você confere pleno consentimento ao tratamento de dados pessoais nos termos da nossa Política de Privacidade https://www.taking.com.br/politica-de-privacidade/Responsabilidades e atribuiçõesRequisitos e qualificações&nbsp;Informações adicionaisIFRS17 é um padrão de normas internacionais para relatórios financeiros que as empresas do segmento de seguros devem se adequar, e para isto as seguradoras investem em novos processos internos e em plataformas tecnológicas que favoreçam a transparência e a avaliação do desempenho financeiro. Para atender o IFRS17 foi estabelecido um projeto com equipe dedicada desde 2019, e agora o Odair Alves direcionou vaga para trazer um Líder Técnico para dar continuidade a este projeto.",
+            "careerPageId": 91359,
+            "careerPageName": "Taking",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/40133/career/91359/images/2022-08-22_12-31_logo.png",
+            "type": "vacancy_legal_entity",
+            "publishedDate": "2023-06-12T17:47:37.052Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "São Paulo",
+            "state": "São Paulo",
+            "country": "Brasil",
+            "jobUrl": "https://taking-people&91359&inactive.gupy.io/job/eyJqb2JJZCI6NDk2NjU1NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "workplaceType": "remote",
+            "careerPageUrl": ""
+        },
+        {
+            "id": 3570328,
+            "companyId": 14557,
+            "name": "Banco de Talentos Pessoa Instrutora de Ensino Back-end [Vaga Afirmativa para Mulheres]",
+            "description": "➡Essa é uma vaga para o nosso&nbsp;Banco de Talentos! Isso significa que a vaga não está disponível agora, mas você pode se inscrever e nós da&nbsp;Cubos&nbsp;iremos analisar a sua inscrição e quando surgir uma vaga que esteja alinhada com o seu perfil, entraremos em contato com você, ok?➡A&nbsp;Cubos Academy&nbsp;é uma escola de&nbsp;formação de profissionais da área de tecnologia. Fomentamos o mercado de tecnologia, qualificando novos profissionais e intermediando sua entrada no mercado de trabalho, contando com uma área especializada na empregabilidade dos nossos alunos.🏃Buscamos uma pessoa com&nbsp;experiência em Back-end, em níveis de carreira:&nbsp;Júnior, Pleno ou Sênior,&nbsp;que goste de&nbsp;compartilhar conhecimento&nbsp;e acredite no potencial transformador da educação na vida das pessoas! Essa pessoa irá compor nosso time da&nbsp;área de Pedagógico&nbsp;e estará em constante comunicação com o time e acompanhando o desenvolvimento e evolução dos nossos alunos.&nbsp;➡ Se você gosta de ensinar e contribuir para o desenvolvimento das pessoas essa vaga é pra você! 💪🏻#VempraCubosAcademy🚀Responsabilidades e atribuiçõesImpactar diretamente na formação de novas pessoas desenvolvedoras através da instrução dos conteúdos de Back-end;Criar, projetar e resolver exercícios e projetos que serão praticados durante o processo de aprendizagem de nossos estudantes;&nbsp;Sanar dúvidas dos estudantes e orientá-los nos projetos e desafios propostos pelo curso;Preparar materiais e conteúdos, aulas ao vivo focando em pontos que o mercado realmente valoriza em uma pessoa desenvolvedora;Preparar aulas de revisão para os estudantes, com o intuito de sanar dúvidas que foram recorrentes durante as aulas anteriores;Mentorear e acompanhar o desempenho e o desenvolvimento da turma;Participar das reuniões de acompanhamento da turma junto ao time de experiência do estudante;Acompanhar e dar suporte às pessoas monitoras ao longo do curso;Participação na idealização e estruturação de novos cursos da Cubos Academy.Requisitos e qualificações🏅&nbsp;ObrigatóriosBoa comunicação oral e escrita;Gostar de ensinar e aprender;Conhecimento em JavaScript (ES6+);Experiência fazendo APIs REST utilizando pelo menos uma dessas tecnologias como: Node.js, Python, Java, PHP, C#;Experiência em SQL;Experiência com Banco de Dados relacionais;&nbsp;Disponibilidade de dedicação de&nbsp;40 horas semanais;&nbsp;🍒Cerejas do bolo, mas tudo bem se não tiver, nem todo bolo tem cereja:&nbsp;Conhecimento em Typescript;Experiência com Docker;Apresentação de portfólio, GitHub ou similares;Experiência com Testes;Gostar de ensinar e desenvolver pessoas;Experiência anteriores ministrando aulas (qualquer área);Já ter trabalhado com algum produto de educação.Informações adicionaisPlano de Saúde Bradesco (custeado 100% por nós) (CLT)Plano Odontológico Bradesco (CLT)Cartão de benefícios Flexíveis Flash: para você escolher onde usar (CLT)Auxílio Home Office (CLT)Day Off para o aniversariante em qualquer dia do mês para curtir como quiser (CLT + PJ)Vale presente no dia do seu aniversário (CLT + PJ)Gympass: para você cuidar do seu corpo e saúde (CLT + PJ)Licença Parental estendida (CLT + PJ)Licença Casamento estendida (CLT + PJ)🔎 O que mais você encontra aqui:Participação em Trilhas de ConhecimentoOne on One com a sua liderança: aquele bate-papo aberto e seguro pra você falar sobre sua carreira e também vida pessoal, feedback e tudo mais;Programa Pause: para ao longo do dia você não se esquecer de respirar novos ares, se alongar e dar uma pausa.Horário semi-flexível: dentro do horário comercialHome-office permanenteAqui na Cubos emendamos&nbsp;todos&nbsp;os feriados que caem das&nbsp;terças e quintas-feiras, para você poder curtir o feriadãoOportunidade de trabalhar em uma startup com um ambiente colaborativo, dinâmico e repleto de desafios.O que mais você deve saber:As aulas serão todas online, então você pode estar em qualquer lugar do mundo.As aulas já estão gravadas e a ementa e o conteúdo desenvolvido..Para se candidatar, não é necessário possuir nenhum título acadêmico, como Mestrado ou Doutorado.🎉Contratação:PJ ou CLT: você escolhe!&nbsp;Cubos Academy e Diversidade﻿&nbsp;Estamos buscando cada vez mais um espaço de crescimento profissional e pessoal para todas as pessoas, respeitando as individualidades de cada um e reconhecendo as desigualdades.&nbsp;Ao se inscrever em nossas vagas, você poderá responder a algumas perguntas a fim de conhecermos melhor nossas pessoas candidatas. Essas informações são importantes para as nossas ações de&nbsp;equidade,&nbsp;diversidade&nbsp;e&nbsp;inclusão. Enfatizamos que sua resposta é&nbsp;opcional, e&nbsp;confidencial&nbsp;e não a usaremos como critério de avaliação.",
+            "careerPageId": 37201,
+            "careerPageName": "Cubos Academy",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/14557/career/37201/images/2021-11-16_18-08_logo.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2022-11-30T18:22:19.907Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "Salvador",
+            "state": "Bahia",
+            "country": "Brasil",
+            "jobUrl": "https://cubosacademy.gupy.io/job/eyJqb2JJZCI6MzU3MDMyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": false
+            },
+            "disabilities": true,
+            "careerPageUrl": "https://cubosacademy.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        },
+        {
+            "id": 1459709,
+            "companyId": 1963,
+            "name": "Pessoa Desenvolvedora Back-end (G1, Globo.com, Gshow, Globoplay, GE, Cartola)",
+            "description": "A Globo&nbsp;é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia e brasilidade de sobra. Canais na TV aberta e por assinatura, produtos digitais como globoplay, Cartola, g1, ge, gshow e outros serviços estão reunidos no mesmo lugar, na mesma globo. Novos modelos de negócios digitais estão sendo pensados e desenvolvidos, buscando nos aproximar cada vez mais do usuário e dos seus desejos. As oportunidades de novos negócios também trazem a chance e o desafio de construirmos novos times data-driven e que coloquem o consumidor no centro das nossas decisões.Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.Responsabilidades e atribuiçõesO Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários.&nbsp;&nbsp;Trabalhamos com uma variedade de tecnologias e linguagens para atingir nossos objetivos, além de estabelecermos uma relação contínua e crescente de compartilhamento de soluções com a comunidade de tecnologia!&nbsp;&nbsp;﻿A inscrição em nosso banco de talentos não garante a contratação, pois ela dependerá da disponibilidade de vagas e avaliação de currículos e requisitos de cada uma das oportunidades.Como será seu dia a dia:&nbsp;&nbsp;Escrever código limpo, de fácil manutenção, utilizando as melhores práticas de desenvolvimento de software;&nbsp;Procurar sempre criar para os produtos&nbsp;Globo&nbsp;a melhor experiência de uso para o usuário final, trabalhando de perto com os especialistas em UX;&nbsp;Atuar como um&nbsp;team-player, comprometendo-se com os objetivos do time e trabalhando em harmonia com todos;&nbsp;Estar sempre crescendo e se desenvolvendo tecnicamente e profissionalmente;&nbsp;Participar de times geograficamente distribuídos.&nbsp;Requisitos e qualificaçõesDo que você precisa:&nbsp;Ter habilidades em algoritmos e estruturas de dados;Conhecimento em engenharia de software, como princípios, boas práticas e padrões de arquitetura; Experiência com desenvolvimento de Aplicações Escaláveis;Vivência com algumas linguagens de programação como:&nbsp;Python,&nbsp;Golang,&nbsp;Java,&nbsp;Ruby,&nbsp;Elixir, Scala,&nbsp;Clojure, C/C++, C#,&nbsp;JavaScript,&nbsp;etc.;Prática com as ferramentas de versionamento (como&nbsp;GIT,&nbsp;SVN,&nbsp;etc.);Experiência em escrever testes;Conhecimento em bancos de dados MySQL,&nbsp;SQL,&nbsp;MongoDB,&nbsp;Oracle,&nbsp;etc.);Vivência com metodologias ágeis.﻿Conhecimentos que te destacam:&nbsp;&nbsp;&nbsp;Experiência com Cloud, como AWS e Google Cloud Platform.&nbsp;Informações adicionaisPor que vir para Globo:&nbsp;&nbsp;Vem e vamos criar histórias e tecnologias juntos.Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação. A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles. Aqui, cada um faz a transformação acontecer.Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil e do mundo. #vempraglobo&nbsp;&nbsp;&nbsp;&nbsp;Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.&nbsp;&nbsp;Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:&nbsp;https://www.linkedin.com/company/globo&nbsp;&nbsp;https://www.instagram.com/vempraglobo&nbsp;&nbsp;&nbsp;https://www.youtube.com/c/VemPraGlobo/&nbsp;&nbsp;Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link:&nbsp;https://vempraglobo.g.globo/files/politica_de_privacidade.pdf&nbsp;Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.&nbsp;",
+            "careerPageId": 40535,
+            "careerPageName": "Globo",
+            "careerPageLogo": "https://attachments.gupy.io/production/companies/1963/career/40535/images/2024-04-17_17-15_companyLogoUrl.png",
+            "type": "vacancy_type_talent_pool",
+            "publishedDate": "2022-01-14T20:47:09.000Z",
+            "applicationDeadline": null,
+            "isRemoteWork": true,
+            "city": "Rio de Janeiro",
+            "state": "Rio de Janeiro",
+            "country": "Brasil",
+            "jobUrl": "https://globo.gupy.io/job/eyJqb2JJZCI6MTQ1OTcwOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+            "badges": {
+                "friendlyBadge": true
+            },
+            "disabilities": false,
+            "workplaceType": "remote",
+            "careerPageUrl": "https://globo.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+        }
+    ],
+    "pagination": {
+        "offset": 0,
+        "limit": 10,
+        "total": 12
+    }
+}
